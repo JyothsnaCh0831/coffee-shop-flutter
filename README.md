@@ -3,17 +3,6 @@
 
 A simple coffee shop app design implemented using Flutter and Dart programming. 
 
-## Video Demo
-
-You can watch a demo of our project below:
-
-```html
-<video width="640" height="360" controls>
-<source src="Output.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-```
-
 
 ## Screens
 

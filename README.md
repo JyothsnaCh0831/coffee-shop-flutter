@@ -3,6 +3,13 @@
 
 A simple coffee shop app design implemented using Flutter and Dart programming. 
 
+## Output Demo
+
+
+
+https://github.com/JyothsnaCh0831/coffee-shop-flutter/assets/112124729/03b6a18f-15c7-4c84-81b3-366dfe2af779
+
+
 
 ## Screens
 

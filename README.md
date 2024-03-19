@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # coffee-shop-flutter
 A simple coffee shop design implemented using Flutter and Dart programming
 =======
@@ -17,5 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> ba4168e (Coffee Shop App Design)
+samples, guidance on mobile development, and a full API reference
